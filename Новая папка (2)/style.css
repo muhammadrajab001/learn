@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+ list-style-type: none;
+}
+.cart_header{
+  display:flex;
+  justify-content: space-evenly;
+    text-align: center;
+   color:black;
+   cursor:default;
+   font-size: 24px;
+   font-weight: 800;
+  max-width: 1700px;
+} 
+.cart_menu{
+  padding-top: 233px;
+}
+@media screen { 
+  width: 350px;
+  
+}
